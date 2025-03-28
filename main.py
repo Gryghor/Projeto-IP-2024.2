@@ -1,6 +1,6 @@
 import pygame, os
 import funcoes_do_jogo as fj
-from configuracoes import *
+from configuracoes import * #Configurações
 from torre import Torre
 
 #Limpa o terminal para fazer impressões.
